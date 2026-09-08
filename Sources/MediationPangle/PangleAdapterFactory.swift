@@ -8,7 +8,7 @@ public final class PangleAdapterFactory: NSObject, APSSPAdapterFactory {
     public static var networkID: Int { 18 }
 
     public static var sdkVersion: String? { PangleInitializationAdapter().sdkVersion }
-    public static var adapterVersion: String? { "8.2.0.7.0" }
+    public static var adapterVersion: String? { "8.2.0.8.0" }
 
     public static func makeInitializationAdapter() -> AnyObject? {
         return PangleInitializationAdapter()
