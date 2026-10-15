@@ -49,6 +49,7 @@ SPM 태그        : 802010000.0.0
 
 AdsGlobalPackage `8.3.0-release.8` 대응
 어댑터 버전 `8.3.0.8.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -56,6 +57,7 @@ AdsGlobalPackage `8.3.0-release.8` 대응
 
 AdsGlobalPackage `8.3.0-release.7` 대응
 어댑터 버전 `8.3.0.7.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -63,6 +65,7 @@ AdsGlobalPackage `8.3.0-release.7` 대응
 
 AdsGlobalPackage `8.3.0-release.6` 대응
 어댑터 버전 `8.3.0.6.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -70,6 +73,7 @@ AdsGlobalPackage `8.3.0-release.6` 대응
 
 AdsGlobalPackage `8.2.1-release.2` 대응
 어댑터 버전 `8.2.1.2.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -77,6 +81,7 @@ AdsGlobalPackage `8.2.1-release.2` 대응
 
 AdsGlobalPackage `8.2.1-release.1` 대응
 어댑터 버전 `8.2.1.1.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -84,6 +89,7 @@ AdsGlobalPackage `8.2.1-release.1` 대응
 
 AdsGlobalPackage `8.2.1-release.0` 대응
 어댑터 버전 `8.2.1.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -91,6 +97,7 @@ AdsGlobalPackage `8.2.1-release.0` 대응
 
 AdsGlobalPackage `8.2.1-release.0` 대응
 어댑터 버전 `8.2.1.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-09-08
 
@@ -98,6 +105,7 @@ AdsGlobalPackage `8.2.1-release.0` 대응
 
 AdsGlobalPackage `8.2.0-release.9` 대응
 어댑터 버전 `8.2.0.9.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -105,6 +113,7 @@ AdsGlobalPackage `8.2.0-release.9` 대응
 
 AdsGlobalPackage `8.2.0-release.9` 대응
 어댑터 버전 `8.2.0.9.0`
+APSSPSDK `3.4.0` 이상
 
 2026-09-08
 
@@ -112,6 +121,7 @@ AdsGlobalPackage `8.2.0-release.9` 대응
 
 AdsGlobalPackage `8.2.0-release.8` 대응
 어댑터 버전 `8.2.0.8.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -119,6 +129,7 @@ AdsGlobalPackage `8.2.0-release.8` 대응
 
 AdsGlobalPackage `8.2.0-release.8` 대응
 어댑터 버전 `8.2.0.8.0`
+APSSPSDK `3.4.0` 이상
 
 2026-09-08
 
@@ -126,6 +137,7 @@ AdsGlobalPackage `8.2.0-release.8` 대응
 
 AdsGlobalPackage `8.2.0-release.7` 대응
 어댑터 버전 `8.2.0.7.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -133,6 +145,7 @@ AdsGlobalPackage `8.2.0-release.7` 대응
 
 AdsGlobalPackage `8.2.0-release.7` 대응
 어댑터 버전 `8.2.0.7.0`
+APSSPSDK `3.4.0` 이상
 
 2026-09-08
 
@@ -140,6 +153,7 @@ AdsGlobalPackage `8.2.0-release.7` 대응
 
 AdsGlobalPackage `8.1.1-release.3` 대응
 어댑터 버전 `8.1.1.3.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -147,6 +161,7 @@ AdsGlobalPackage `8.1.1-release.3` 대응
 
 AdsGlobalPackage `8.1.1-release.3` 대응
 어댑터 버전 `8.1.1.3.0`
+APSSPSDK `3.4.0` 이상
 
 2026-09-08
 
@@ -154,6 +169,7 @@ AdsGlobalPackage `8.1.1-release.3` 대응
 
 AdsGlobalPackage `8.1.1-release.2` 대응
 어댑터 버전 `8.1.1.2.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -161,6 +177,7 @@ AdsGlobalPackage `8.1.1-release.2` 대응
 
 AdsGlobalPackage `8.1.1-release.2` 대응
 어댑터 버전 `8.1.1.2.0`
+APSSPSDK `3.4.0` 이상
 
 2026-09-08
 
@@ -168,6 +185,7 @@ AdsGlobalPackage `8.1.1-release.2` 대응
 
 AdsGlobalPackage `8.1.1-release.1` 대응
 어댑터 버전 `8.1.1.1.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -175,6 +193,7 @@ AdsGlobalPackage `8.1.1-release.1` 대응
 
 AdsGlobalPackage `8.1.1-release.1` 대응
 어댑터 버전 `8.1.1.1.0`
+APSSPSDK `3.4.0` 이상
 
 2026-09-08
 
@@ -182,6 +201,7 @@ AdsGlobalPackage `8.1.1-release.1` 대응
 
 AdsGlobalPackage `8.1.1-release.0` 대응
 어댑터 버전 `8.1.1.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -189,6 +209,7 @@ AdsGlobalPackage `8.1.1-release.0` 대응
 
 AdsGlobalPackage `8.1.1-release.0` 대응
 어댑터 버전 `8.1.1.0.0`
+APSSPSDK `3.4.0` 이상
 
 2026-09-08
 
@@ -196,6 +217,7 @@ AdsGlobalPackage `8.1.1-release.0` 대응
 
 AdsGlobalPackage `8.1.0-release.9` 대응
 어댑터 버전 `8.1.0.9.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -203,6 +225,7 @@ AdsGlobalPackage `8.1.0-release.9` 대응
 
 AdsGlobalPackage `8.1.0-release.9` 대응
 어댑터 버전 `8.1.0.9.0`
+APSSPSDK `3.4.0` 이상
 
 2026-09-08
 
@@ -210,6 +233,7 @@ AdsGlobalPackage `8.1.0-release.9` 대응
 
 AdsGlobalPackage `8.1.0-release.6` 대응
 어댑터 버전 `8.1.0.6.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -217,6 +241,7 @@ AdsGlobalPackage `8.1.0-release.6` 대응
 
 AdsGlobalPackage `8.1.0-release.6` 대응
 어댑터 버전 `8.1.0.6.0`
+APSSPSDK `3.4.0` 이상
 
 2026-09-08
 
@@ -224,6 +249,7 @@ AdsGlobalPackage `8.1.0-release.6` 대응
 
 AdsGlobalPackage `7.9.1-release.1` 대응
 어댑터 버전 `7.9.1.1.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -231,6 +257,7 @@ AdsGlobalPackage `7.9.1-release.1` 대응
 
 AdsGlobalPackage `7.9.1-release.1` 대응
 어댑터 버전 `7.9.1.1.0`
+APSSPSDK `3.4.0` 이상
 
 2026-09-08
 
@@ -238,6 +265,7 @@ AdsGlobalPackage `7.9.1-release.1` 대응
 
 AdsGlobalPackage `7.9.0-release.8` 대응
 어댑터 버전 `7.9.0.8.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -245,6 +273,7 @@ AdsGlobalPackage `7.9.0-release.8` 대응
 
 AdsGlobalPackage `7.9.0-release.8` 대응
 어댑터 버전 `7.9.0.8.0`
+APSSPSDK `3.4.0` 이상
 
 2026-09-08
 
@@ -252,6 +281,7 @@ AdsGlobalPackage `7.9.0-release.8` 대응
 
 AdsGlobalPackage `7.9.0-release.6` 대응
 어댑터 버전 `7.9.0.6.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -259,6 +289,7 @@ AdsGlobalPackage `7.9.0-release.6` 대응
 
 AdsGlobalPackage `7.9.0-release.6` 대응
 어댑터 버전 `7.9.0.6.0`
+APSSPSDK `3.4.0` 이상
 
 2026-09-08
 
@@ -266,6 +297,7 @@ AdsGlobalPackage `7.9.0-release.6` 대응
 
 AdsGlobalPackage `7.8.5-release.7` 대응
 어댑터 버전 `7.8.5.7.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -273,6 +305,7 @@ AdsGlobalPackage `7.8.5-release.7` 대응
 
 AdsGlobalPackage `7.8.5-release.7` 대응
 어댑터 버전 `7.8.5.7.0`
+APSSPSDK `3.4.0` 이상
 
 2026-09-08
 
@@ -280,6 +313,7 @@ AdsGlobalPackage `7.8.5-release.7` 대응
 
 AdsGlobalPackage `7.6.0-release.6` 대응
 어댑터 버전 `7.6.0.6.0`
+APSSPSDK `3.4.0` 이상
 
 2026-10-15
 
@@ -287,5 +321,6 @@ AdsGlobalPackage `7.6.0-release.6` 대응
 
 AdsGlobalPackage `7.6.0-release.6` 대응 · 5자리 버전 체계 적용
 어댑터 버전 `7.6.0.6.0`
+APSSPSDK `3.4.0` 이상
 
 2026-09-08
