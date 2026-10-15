@@ -13,7 +13,7 @@ import PAGAdSDK
 
 final class PangleMediationRewardVideoAd: NSObject {
     
-    var delegate: APSSPRewardVideoAdapterDelegate?
+    weak var delegate: APSSPRewardVideoAdapterDelegate?
     
     private var rewardedAd: PAGRewardedAd?
     

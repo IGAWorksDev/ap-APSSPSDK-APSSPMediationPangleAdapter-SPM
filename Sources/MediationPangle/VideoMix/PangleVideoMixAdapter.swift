@@ -2,12 +2,16 @@ import UIKit
 import APSSPSDK
 
 final public class PangleVideoMixAdapter: APSSPVideoMixAdAdapterInappBiddingProtocol {
-    public var rootViewController: UIViewController?
-    public var videoMixDelegate: APSSPVideoMixAdAdapterDelegate?
+    public weak var rootViewController: UIViewController?
+    public weak var videoMixDelegate: APSSPVideoMixAdAdapterDelegate?
     public var videoMixAdType: APSSPVideoMixAdType = .InterstitialVideo
     private var placementDic: [String: String] = [:]
     private var interstitialVideoAdapter: PangleAdsInterstitialVideoAdapter?
     private var rewardVideoAdapter: PangleRewardVideoAdapter?
+
+    deinit {
+        APLogger.debug("PangleVideoMixAdapter deinit")
+    }
 
     public init(placementDic: [String: String], rootViewController: UIViewController?, info: [String: Any?]) {
         self.placementDic = placementDic; self.rootViewController = rootViewController
@@ -29,7 +33,7 @@ final public class PangleVideoMixAdapter: APSSPVideoMixAdAdapterInappBiddingProt
             rewardVideoAdapter = PangleRewardVideoAdapter(placementDic: placementDic, rootViewController: rootViewController, info: [:])
             rewardVideoAdapter?.connectDelegate(delegate: self)
         case .Interstitial:
-            videoMixDelegate?.videoMixAdLoadFail(error: .noAdError, type: videoMixAdType, errorMessage: "Ad type not supported")
+            videoMixDelegate?.videoMixAdLoadFail(error: .nextMediation, type: videoMixAdType, errorMessage: "Ad type not supported")
         @unknown default:
             break
         }

@@ -14,10 +14,14 @@ final public class PangleAdsInterstitialVideoAdapter: APSSPInterstitialVideoAdap
    
     private var interstitialVideoAd: PangleAdsMediationInterstitialVideoAd?
     
-    public var delegate: APSSPInterstitialVideoAdapterDelegate?
+    public weak var delegate: APSSPInterstitialVideoAdapterDelegate?
     
-    public var rootViewController: UIViewController?
+    public weak var rootViewController: UIViewController?
     
+    deinit {
+        APLogger.debug("PangleAdsInterstitialVideoAdapter deinit")
+    }
+
     public init(placementDic: [String: String], rootViewController: UIViewController?, info: [String : Any?]) {
         let placementId = placementDic[APSSPPlacementKey.panglePlacementId.rawValue] ?? ""
         let appID = placementDic[APSSPPlacementKey.pangleAppId.rawValue] ?? ""

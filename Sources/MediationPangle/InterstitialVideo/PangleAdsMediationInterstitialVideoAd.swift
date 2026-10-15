@@ -13,7 +13,7 @@ import PAGAdSDK
 
 final class PangleAdsMediationInterstitialVideoAd: NSObject {
     
-    var delegate: APSSPInterstitialVideoAdapterDelegate?
+    weak var delegate: APSSPInterstitialVideoAdapterDelegate?
     
     private var interstitialAd: PAGLInterstitialAd?
     
