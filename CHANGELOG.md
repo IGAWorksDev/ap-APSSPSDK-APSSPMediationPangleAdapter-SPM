@@ -20,7 +20,7 @@
 
 ```swift
 .package(url: "https://github.com/IGAWorksDev/ap-APSSPSDK-APSSPMediationPangleAdapter-SPM.git",
-         exact: "802010000.0.0")
+         exact: "803000800.0.0")
 ```
 
 > `Other Linker Flags` 에 **`-ObjC`** 추가 필수. 미설정 시 어댑터가 런타임에 인식되지 않습니다.
@@ -45,12 +45,61 @@ SPM 태그        : 802010000.0.0
 
 ---
 
+## 803000800.0.0
+
+AdsGlobalPackage `8.3.0-release.8` 대응
+어댑터 버전 `8.3.0.8.0`
+
+2026-10-15
+
+## 803000700.0.0
+
+AdsGlobalPackage `8.3.0-release.7` 대응
+어댑터 버전 `8.3.0.7.0`
+
+2026-10-15
+
+## 803000600.0.0
+
+AdsGlobalPackage `8.3.0-release.6` 대응
+어댑터 버전 `8.3.0.6.0`
+
+2026-10-15
+
+## 802010200.0.0
+
+AdsGlobalPackage `8.2.1-release.2` 대응
+어댑터 버전 `8.2.1.2.0`
+
+2026-10-15
+
+## 802010100.0.0
+
+AdsGlobalPackage `8.2.1-release.1` 대응
+어댑터 버전 `8.2.1.1.0`
+
+2026-10-15
+
+## 802010000.0.1
+
+AdsGlobalPackage `8.2.1-release.0` 대응
+어댑터 버전 `8.2.1.0.0`
+
+2026-10-15
+
 ## 802010000.0.0
 
 AdsGlobalPackage `8.2.1-release.0` 대응
 어댑터 버전 `8.2.1.0.0`
 
 2026-09-08
+
+## 802000900.0.1
+
+AdsGlobalPackage `8.2.0-release.9` 대응
+어댑터 버전 `8.2.0.9.0`
+
+2026-10-15
 
 ## 802000900.0.0
 
@@ -59,12 +108,26 @@ AdsGlobalPackage `8.2.0-release.9` 대응
 
 2026-09-08
 
+## 802000800.0.1
+
+AdsGlobalPackage `8.2.0-release.8` 대응
+어댑터 버전 `8.2.0.8.0`
+
+2026-10-15
+
 ## 802000800.0.0
 
 AdsGlobalPackage `8.2.0-release.8` 대응
 어댑터 버전 `8.2.0.8.0`
 
 2026-09-08
+
+## 802000700.0.1
+
+AdsGlobalPackage `8.2.0-release.7` 대응
+어댑터 버전 `8.2.0.7.0`
+
+2026-10-15
 
 ## 802000700.0.0
 
@@ -73,12 +136,26 @@ AdsGlobalPackage `8.2.0-release.7` 대응
 
 2026-09-08
 
+## 801010300.0.1
+
+AdsGlobalPackage `8.1.1-release.3` 대응
+어댑터 버전 `8.1.1.3.0`
+
+2026-10-15
+
 ## 801010300.0.0
 
 AdsGlobalPackage `8.1.1-release.3` 대응
 어댑터 버전 `8.1.1.3.0`
 
 2026-09-08
+
+## 801010200.0.1
+
+AdsGlobalPackage `8.1.1-release.2` 대응
+어댑터 버전 `8.1.1.2.0`
+
+2026-10-15
 
 ## 801010200.0.0
 
@@ -87,12 +164,26 @@ AdsGlobalPackage `8.1.1-release.2` 대응
 
 2026-09-08
 
+## 801010100.0.1
+
+AdsGlobalPackage `8.1.1-release.1` 대응
+어댑터 버전 `8.1.1.1.0`
+
+2026-10-15
+
 ## 801010100.0.0
 
 AdsGlobalPackage `8.1.1-release.1` 대응
 어댑터 버전 `8.1.1.1.0`
 
 2026-09-08
+
+## 801010000.0.1
+
+AdsGlobalPackage `8.1.1-release.0` 대응
+어댑터 버전 `8.1.1.0.0`
+
+2026-10-15
 
 ## 801010000.0.0
 
@@ -101,12 +192,26 @@ AdsGlobalPackage `8.1.1-release.0` 대응
 
 2026-09-08
 
+## 801000900.0.1
+
+AdsGlobalPackage `8.1.0-release.9` 대응
+어댑터 버전 `8.1.0.9.0`
+
+2026-10-15
+
 ## 801000900.0.0
 
 AdsGlobalPackage `8.1.0-release.9` 대응
 어댑터 버전 `8.1.0.9.0`
 
 2026-09-08
+
+## 801000600.0.1
+
+AdsGlobalPackage `8.1.0-release.6` 대응
+어댑터 버전 `8.1.0.6.0`
+
+2026-10-15
 
 ## 801000600.0.0
 
@@ -115,12 +220,26 @@ AdsGlobalPackage `8.1.0-release.6` 대응
 
 2026-09-08
 
+## 709010100.0.1
+
+AdsGlobalPackage `7.9.1-release.1` 대응
+어댑터 버전 `7.9.1.1.0`
+
+2026-10-15
+
 ## 709010100.0.0
 
 AdsGlobalPackage `7.9.1-release.1` 대응
 어댑터 버전 `7.9.1.1.0`
 
 2026-09-08
+
+## 709000800.0.1
+
+AdsGlobalPackage `7.9.0-release.8` 대응
+어댑터 버전 `7.9.0.8.0`
+
+2026-10-15
 
 ## 709000800.0.0
 
@@ -129,6 +248,13 @@ AdsGlobalPackage `7.9.0-release.8` 대응
 
 2026-09-08
 
+## 709000600.0.1
+
+AdsGlobalPackage `7.9.0-release.6` 대응
+어댑터 버전 `7.9.0.6.0`
+
+2026-10-15
+
 ## 709000600.0.0
 
 AdsGlobalPackage `7.9.0-release.6` 대응
@@ -136,12 +262,26 @@ AdsGlobalPackage `7.9.0-release.6` 대응
 
 2026-09-08
 
+## 708050700.0.1
+
+AdsGlobalPackage `7.8.5-release.7` 대응
+어댑터 버전 `7.8.5.7.0`
+
+2026-10-15
+
 ## 708050700.0.0
 
 AdsGlobalPackage `7.8.5-release.7` 대응
 어댑터 버전 `7.8.5.7.0`
 
 2026-09-08
+
+## 706000600.0.1
+
+AdsGlobalPackage `7.6.0-release.6` 대응
+어댑터 버전 `7.6.0.6.0`
+
+2026-10-15
 
 ## 706000600.0.0
 
