@@ -20,7 +20,7 @@
 
 ```swift
 .package(url: "https://github.com/IGAWorksDev/ap-APSSPSDK-APSSPMediationPangleAdapter-SPM.git",
-         exact: "803000800.0.0")
+         exact: "804000900.0.0")
 ```
 
 > `Other Linker Flags` 에 **`-ObjC`** 추가 필수. 미설정 시 어댑터가 런타임에 인식되지 않습니다.
@@ -44,6 +44,70 @@ SPM 태그        : 802010000.0.0
 > 이전 버전을 사용 중이셨다면 위 신규 태그로 변경해 주세요.
 
 ---
+
+## 804000900.0.0
+
+AdsGlobalPackage `8.4.0-release.9` 대응
+어댑터 버전 `8.4.0.9.0`
+APSSPSDK `3.4.0` 이상
+
+2026-11-24
+
+## 804000800.0.0
+
+AdsGlobalPackage `8.4.0-release.8` 대응
+어댑터 버전 `8.4.0.8.0`
+APSSPSDK `3.4.0` 이상
+
+2026-11-24
+
+## 804000700.0.0
+
+AdsGlobalPackage `8.4.0-release.7` 대응
+어댑터 버전 `8.4.0.7.0`
+APSSPSDK `3.4.0` 이상
+
+2026-11-24
+
+## 804000600.0.0
+
+AdsGlobalPackage `8.4.0-release.6` 대응
+어댑터 버전 `8.4.0.6.0`
+APSSPSDK `3.4.0` 이상
+
+2026-11-24
+
+## 804000500.0.0
+
+AdsGlobalPackage `8.4.0-release.5` 대응
+어댑터 버전 `8.4.0.5.0`
+APSSPSDK `3.4.0` 이상
+
+2026-11-24
+
+## 803010100.0.0
+
+AdsGlobalPackage `8.3.1-release.1` 대응
+어댑터 버전 `8.3.1.1.0`
+APSSPSDK `3.4.0` 이상
+
+2026-11-24
+
+## 803010000.0.0
+
+AdsGlobalPackage `8.3.1-release.0` 대응
+어댑터 버전 `8.3.1.0.0`
+APSSPSDK `3.4.0` 이상
+
+2026-11-24
+
+## 803000900.0.0
+
+AdsGlobalPackage `8.3.0-release.9` 대응
+어댑터 버전 `8.3.0.9.0`
+APSSPSDK `3.4.0` 이상
+
+2026-11-24
 
 ## 803000800.0.0
 
