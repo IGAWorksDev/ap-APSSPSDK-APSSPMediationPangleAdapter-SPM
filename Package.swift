@@ -12,7 +12,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/IGAWorksDev/ap-APSSPSDK-SPM.git", from: "3.4.0"),
-        .package(url: "https://github.com/bytedance/AdsGlobalPackage.git", exact: "8.3.1-release.1"),
+        .package(url: "https://github.com/bytedance/AdsGlobalPackage.git", exact: "8.4.0-release.5"),
     ],
     targets: [
         .target(name: "APSSPMediationPangle",
